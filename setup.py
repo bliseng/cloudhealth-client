@@ -31,7 +31,7 @@ setup(
     },
     install_requires=[
         'click==6.6',
-        'requests==2.7.0',
+        'requests==2.31.0',
         'click_didyoumean==0.0.3',
     ]
 )
